@@ -1,0 +1,21 @@
+[submodule "bookbnb-backoffice"]
+	path = bookbnb-backoffice
+	url = git@github.com:7552-2020C2-grupo5/bookbnb-backoffice.git
+[submodule "server-requester"]
+	path = server-requester
+	url = git@github.com:7552-2020C2-grupo5/server-requester.git
+[submodule "bookings-microservice"]
+	path = bookings-microservice
+	url = git@github.com:7552-2020C2-grupo5/bookings-microservice.git
+[submodule "users-microservice"]
+	path = users-microservice
+	url = git@github.com:7552-2020C2-grupo5/users-microservice.git
+[submodule "flask_cookiecutter"]
+	path = flask_cookiecutter
+	url = git@github.com:7552-2020C2-grupo5/flask_cookiecutter.git
+[submodule "android-app"]
+	path = android-app
+	url = git@github.com:7552-2020C2-grupo5/android-app.git
+[submodule "publications-microservice"]
+	path = publications-microservice
+	url = git@github.com:7552-2020C2-grupo5/publications-microservice.git
