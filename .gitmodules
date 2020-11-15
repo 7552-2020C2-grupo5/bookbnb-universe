@@ -26,3 +26,6 @@
 	path = publications-microservice
 	url = git@github.com:7552-2020C2-grupo5/publications-microservice.git
 	update = merge
+[submodule "middleware"]
+	path = middleware
+	url = git@github.com:7552-2020C2-grupo5/middleware.git
