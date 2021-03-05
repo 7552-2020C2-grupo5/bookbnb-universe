@@ -32,3 +32,6 @@
 [submodule "recommendations_microservice"]
 	path = recommendations_microservice
 	url = git@github.com:7552-2020C2-grupo5/recommendations_microservice.git
+[submodule "reviews-microservice"]
+	path = reviews-microservice
+	url = git@github.com:7552-2020C2-grupo5/reviews-microservice.git
