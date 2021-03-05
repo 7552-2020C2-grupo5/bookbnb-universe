@@ -35,3 +35,9 @@
 [submodule "reviews-microservice"]
 	path = reviews-microservice
 	url = git@github.com:7552-2020C2-grupo5/reviews-microservice.git
+[submodule "payments-microservice"]
+	path = payments-microservice
+	url = git@github.com:7552-2020C2-grupo5/payments-microservice.git
+[submodule "notifications-microservice"]
+	path = notifications-microservice
+	url = git@github.com:7552-2020C2-grupo5/notifications-microservice.git
