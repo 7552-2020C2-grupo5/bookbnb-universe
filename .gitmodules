@@ -41,3 +41,6 @@
 [submodule "notifications-microservice"]
 	path = notifications-microservice
 	url = git@github.com:7552-2020C2-grupo5/notifications-microservice.git
+[submodule "tokens_microservice"]
+	path = tokens_microservice
+	url = git@github.com:7552-2020C2-grupo5/tokens_microservice.git
